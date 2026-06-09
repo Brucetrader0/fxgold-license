@@ -3,4 +3,3 @@
 # Para revogar: apague a linha ou mude a data para o passado
 
 27897402,31.12.2026
-27897402,31.12.2026
