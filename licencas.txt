@@ -2,4 +2,4 @@
 # Formato: CONTA,DD.MM.AAAA
 # Para revogar: apague a linha ou mude a data para o passado
 
-108137953,01.01.2028
+108137953,01.01.2026
